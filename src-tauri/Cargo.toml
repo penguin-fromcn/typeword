@@ -1,0 +1,38 @@
+[package]
+name = "typeword"
+version = "0.2.7"
+description = "TypeWord - 离线打字机风格汉译英单词学习程序"
+authors = ["TypeWord contributors"]
+license = "MIT"
+edition = "2021"
+
+[lib]
+name = "typeword_lib"
+crate-type = ["staticlib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rusqlite = { version = "0.32", features = ["bundled"] }
+rfd = "0.15"
+
+[target.'cfg(windows)'.dependencies]
+windows = { version = "0.62", features = [
+  "Win32_Foundation",
+  "Win32_Media_Speech",
+  "Win32_System_Com",
+] }
+
+[dev-dependencies]
+tempfile = "3"
+
+[profile.release]
+panic = "abort"
+codegen-units = 1
+lto = true
+opt-level = "s"
+strip = true

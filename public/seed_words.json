@@ -1,0 +1,1117 @@
+[
+  {
+    "word": "vanity",
+    "meanings": [
+      "虚荣心",
+      "自负",
+      "徒劳"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "vain adj. 自负的；徒劳的；vainly adv. 徒劳地"
+  },
+  {
+    "word": "for sb's part",
+    "meanings": [
+      "就某人来说",
+      "在某人方面"
+    ],
+    "acceptedAnswers": [
+      "for somebody's part"
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "reflection",
+    "meanings": [
+      "反射",
+      "倒影",
+      "反映",
+      "深思"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "reflect v. 反射；反映；深思；reflective adj. 沉思的；反射的"
+  },
+  {
+    "word": "be of a piece",
+    "meanings": [
+      "（与……）完全一致",
+      "同属一类"
+    ],
+    "acceptedAnswers": [
+      "be all of a piece",
+      "be of a piece with"
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "slender",
+    "meanings": [
+      "苗条的",
+      "纤细的",
+      "微薄的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "slenderness n. 苗条；纤细"
+  },
+  {
+    "word": "in accordance with",
+    "meanings": [
+      "按照，依照",
+      "与……一致"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "elderly",
+    "meanings": [
+      "年长的",
+      "上了年纪的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "elder adj. 较年长的"
+  },
+  {
+    "word": "affectionate",
+    "meanings": [
+      "充满深情的",
+      "温柔体贴的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 3,
+    "notes": "affection n. 喜爱；感情；affectionately adv. 深情地"
+  },
+  {
+    "word": "benign",
+    "meanings": [
+      "仁慈的",
+      "温和的",
+      "（肿瘤）良性的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "benignly adv. 仁慈地；温和地"
+  },
+  {
+    "word": "cocktail",
+    "meanings": [
+      "鸡尾酒",
+      "混合物"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "something of a",
+    "meanings": [
+      "有几分……",
+      "称得上是一个……"
+    ],
+    "acceptedAnswers": [
+      "something of an"
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "lounge",
+    "meanings": [
+      "休息室",
+      "候机厅",
+      "闲逛",
+      "懒散地倚靠"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "lounger n. 躺椅；闲荡的人"
+  },
+  {
+    "word": "fizz",
+    "meanings": [
+      "（液体）嘶嘶冒泡",
+      "嘶嘶声",
+      "起泡饮料"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "fizzy adj. 起泡的；嘶嘶作响的"
+  },
+  {
+    "word": "remittance",
+    "meanings": [
+      "汇款",
+      "汇款额"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "remit v. 汇款"
+  },
+  {
+    "word": "namesake",
+    "meanings": [
+      "同名的人（或物）"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "uncanny",
+    "meanings": [
+      "离奇的",
+      "不可思议的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "uncannily adv. 离奇地；不可思议地"
+  },
+  {
+    "word": "sip",
+    "meanings": [
+      "小口喝，啜饮",
+      "一小口"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "sipped 过去式/过去分词；sipping 现在分词"
+  },
+  {
+    "word": "chap",
+    "meanings": [
+      "小伙子",
+      "家伙"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "curly",
+    "meanings": [
+      "卷曲的",
+      "有卷发的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "curl v. 使卷曲 n. 卷发；curled adj. 卷曲的"
+  },
+  {
+    "word": "chuckle",
+    "meanings": [
+      "轻声笑，暗自笑",
+      "轻笑"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "chuckled 过去式/过去分词；chuckling 现在分词"
+  },
+  {
+    "word": "stroke",
+    "meanings": [
+      "中风",
+      "一击",
+      "划水动作",
+      "轻抚，抚摸"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "stroked 过去式/过去分词；stroking 现在分词"
+  },
+  {
+    "word": "vein",
+    "meanings": [
+      "静脉",
+      "血管",
+      "纹理",
+      "矿脉"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "veined adj. 有纹理的；布满筋脉的"
+  },
+  {
+    "word": "go broke",
+    "meanings": [
+      "破产",
+      "身无分文"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "hitherto",
+    "meanings": [
+      "迄今",
+      "到目前为止"
+    ],
+    "acceptedAnswers": [],
+    "category": "副词",
+    "tags": [
+      "adv."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "not just yet",
+    "meanings": [
+      "还不",
+      "暂且不"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "trim",
+    "meanings": [
+      "修剪，修整",
+      "削减",
+      "整洁的",
+      "修剪"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./adj./n."
+    ],
+    "difficulty": 2,
+    "notes": "trimmed 过去式/过去分词；trimming 现在分词"
+  },
+  {
+    "word": "pawn",
+    "meanings": [
+      "典当，抵押",
+      "典当物",
+      "（国际象棋）兵"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "pawned 过去式/过去分词；pawning 现在分词"
+  },
+  {
+    "word": "down and out",
+    "meanings": [
+      "穷困潦倒的",
+      "一败涂地的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "suicide",
+    "meanings": [
+      "自杀",
+      "自杀行为"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "suicidal adj. 自杀的；有自杀倾向的"
+  },
+  {
+    "word": "fall to pieces",
+    "meanings": [
+      "破碎",
+      "（精神）崩溃",
+      "瓦解"
+    ],
+    "acceptedAnswers": [
+      "go to pieces",
+      "be all to pieces",
+      "go all to pieces",
+      "fall all to pieces"
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "insane",
+    "meanings": [
+      "精神失常的",
+      "疯狂的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "insanely adv. 疯狂地；insanity n. 精神失常；疯狂"
+  },
+  {
+    "word": "glimmering",
+    "meanings": [
+      "微光",
+      "隐约的迹象",
+      "微光闪烁的"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./adj."
+    ],
+    "difficulty": 3,
+    "notes": "glimmer v. 闪烁；发出微光 n. 微光"
+  },
+  {
+    "word": "drive at",
+    "meanings": [
+      "意指",
+      "暗示（想说明……）"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "beacon",
+    "meanings": [
+      "灯塔",
+      "信标",
+      "指引者"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "creek",
+    "meanings": [
+      "小溪",
+      "小湾"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "on account of",
+    "meanings": [
+      "由于，因为"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "prep. phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "be taken back",
+    "meanings": [
+      "大吃一惊",
+      "惊呆",
+      "被吓了一跳"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3,
+    "notes": "表示感到震惊、吃惊，亦作 be taken aback；不要按字面理解为“被收回”。"
+  },
+  {
+    "word": "funk",
+    "meanings": [
+      "恐惧",
+      "胆怯",
+      "逃避，畏缩"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "funked 过去式/过去分词；funking 现在分词"
+  },
+  {
+    "word": "constitution",
+    "meanings": [
+      "宪法",
+      "体质，体格",
+      "构成"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "constitutional adj. 宪法的；体质的；constitute v. 构成；组成"
+  },
+  {
+    "word": "dissipation",
+    "meanings": [
+      "挥霍",
+      "放荡",
+      "消散"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "dissipate v. 驱散；挥霍；dissipated adj. 放荡的"
+  },
+  {
+    "word": "a trifle",
+    "meanings": [
+      "有点儿",
+      "稍微"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3,
+    "notes": "trifle n. 小事，琐事"
+  },
+  {
+    "word": "candid",
+    "meanings": [
+      "坦率的",
+      "直言不讳的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "candidly adv. 坦率地；candor n. 坦率，直率"
+  },
+  {
+    "word": "vacancy",
+    "meanings": [
+      "空缺",
+      "空位",
+      "空职"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "vacant adj. 空缺的；茫然的；vacate v. 空出，腾出"
+  },
+  {
+    "word": "humanity",
+    "meanings": [
+      "人类",
+      "人性",
+      "人道",
+      "人文学科"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "human adj. 人类的 n. 人；humane adj. 人道的；humanitarian adj. 人道主义的"
+  },
+  {
+    "word": "congregate",
+    "meanings": [
+      "聚集，集合"
+    ],
+    "acceptedAnswers": [],
+    "category": "动词",
+    "tags": [
+      "v."
+    ],
+    "difficulty": 3,
+    "notes": "congregation n. 集会；会众"
+  },
+  {
+    "word": "pedestrian",
+    "meanings": [
+      "行人",
+      "步行的",
+      "平淡乏味的"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./adj."
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "chilly",
+    "meanings": [
+      "寒冷的",
+      "冷淡的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "chill n. 寒冷 v. 使变冷；chilled adj. 变冷的"
+  },
+  {
+    "word": "Celsius",
+    "meanings": [
+      "摄氏的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "desperately",
+    "meanings": [
+      "拼命地",
+      "绝望地",
+      "极度地"
+    ],
+    "acceptedAnswers": [],
+    "category": "副词",
+    "tags": [
+      "adv."
+    ],
+    "difficulty": 3,
+    "notes": "desperate adj. 绝望的；拼命的；desperation n. 绝望"
+  },
+  {
+    "word": "mob",
+    "meanings": [
+      "暴民，乌合之众",
+      "成群围住",
+      "蜂拥而至"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "mobbed 过去式/过去分词；mobbing 现在分词"
+  },
+  {
+    "word": "intersection",
+    "meanings": [
+      "十字路口",
+      "交叉点"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "intersect v. 相交；交叉"
+  },
+  {
+    "word": "shaky",
+    "meanings": [
+      "摇晃的",
+      "不稳定的",
+      "发抖的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "shake v. 摇动；发抖；shakily adv. 摇晃地"
+  },
+  {
+    "word": "pathetic",
+    "meanings": [
+      "可怜的",
+      "可悲的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "pathetically adv. 可怜地；可悲地"
+  },
+  {
+    "word": "stock up on",
+    "meanings": [
+      "囤积",
+      "大量储备"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "whiskey",
+    "meanings": [
+      "威士忌"
+    ],
+    "acceptedAnswers": [
+      "whisky"
+    ],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "conjure up",
+    "meanings": [
+      "使浮现于脑海",
+      "唤起"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3,
+    "notes": "conjure v. 变戏法；使呈现"
+  },
+  {
+    "word": "cocaine",
+    "meanings": [
+      "可卡因"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "literally",
+    "meanings": [
+      "字面上地",
+      "确实地，真正地"
+    ],
+    "acceptedAnswers": [],
+    "category": "副词",
+    "tags": [
+      "adv."
+    ],
+    "difficulty": 2,
+    "notes": "literal adj. 字面的；逐字的"
+  },
+  {
+    "word": "curb",
+    "meanings": [
+      "路边石",
+      "抑制，约束"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "curbed 过去式/过去分词；curbing 现在分词"
+  },
+  {
+    "word": "pass judgement on",
+    "meanings": [
+      "对……作出判断（评价）"
+    ],
+    "acceptedAnswers": [
+      "pass judgment on"
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3,
+    "notes": "judgement n. 判断；评判；judge v. 判断；评价"
+  },
+  {
+    "word": "hip",
+    "meanings": [
+      "臀部，髋部"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "sear",
+    "meanings": [
+      "烧焦",
+      "灼伤",
+      "烙"
+    ],
+    "acceptedAnswers": [],
+    "category": "动词",
+    "tags": [
+      "v."
+    ],
+    "difficulty": 2,
+    "notes": "seared 过去式/过去分词；searing adj. 灼热的；灼痛的"
+  },
+  {
+    "word": "fracture",
+    "meanings": [
+      "骨折",
+      "断裂",
+      "（使）断裂"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "fractured 过去式/过去分词；fracturing 现在分词"
+  },
+  {
+    "word": "kneecap",
+    "meanings": [
+      "膝盖骨，髌骨"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "come to grips with",
+    "meanings": [
+      "认真处理",
+      "开始理解（难题）"
+    ],
+    "acceptedAnswers": [
+      "get to grips with",
+      "come to grips with sth.",
+      "get to grips with sth."
+    ],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "notion",
+    "meanings": [
+      "概念",
+      "想法，念头"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "notional adj. 概念的；理论上的"
+  },
+  {
+    "word": "gruff",
+    "meanings": [
+      "（声音）粗哑的",
+      "（态度）生硬的"
+    ],
+    "acceptedAnswers": [],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "gruffly adv. 生硬地；粗声粗气地"
+  },
+  {
+    "word": "sniff",
+    "meanings": [
+      "嗅，闻",
+      "抽鼻子",
+      "吸气声"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "sniffed 过去式/过去分词；sniffing 现在分词"
+  },
+  {
+    "word": "well",
+    "meanings": [
+      "涌出，冒出（泪水等）",
+      "涌起"
+    ],
+    "acceptedAnswers": [],
+    "category": "动词",
+    "tags": [
+      "v."
+    ],
+    "difficulty": 2,
+    "notes": "welled 过去式/过去分词；welling 现在分词"
+  },
+  {
+    "word": "bruise",
+    "meanings": [
+      "淤青，瘀伤",
+      "使瘀伤"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "n./v."
+    ],
+    "difficulty": 2,
+    "notes": "bruised 过去式/过去分词，瘀伤的；bruising 现在分词"
+  },
+  {
+    "word": "dump",
+    "meanings": [
+      "丢弃，扔掉",
+      "倾倒",
+      "垃圾场"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "v./n."
+    ],
+    "difficulty": 2,
+    "notes": "dumped 过去式/过去分词；dumping 现在分词"
+  },
+  {
+    "word": "meager",
+    "meanings": [
+      "贫乏的",
+      "少量的",
+      "微薄的"
+    ],
+    "acceptedAnswers": [
+      "meagre"
+    ],
+    "category": "形容词",
+    "tags": [
+      "adj."
+    ],
+    "difficulty": 2,
+    "notes": "meagerly adv. 贫乏地；meagerness n. 贫乏"
+  },
+  {
+    "word": "sheer",
+    "meanings": [
+      "纯粹的",
+      "完全的",
+      "陡峭的",
+      "完全地"
+    ],
+    "acceptedAnswers": [],
+    "category": "综合",
+    "tags": [
+      "adj./adv."
+    ],
+    "difficulty": 2
+  },
+  {
+    "word": "bewilderment",
+    "meanings": [
+      "困惑，迷惘"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 3,
+    "notes": "bewilder v. 使困惑；bewildered adj. 困惑的；bewildering adj. 令人困惑的"
+  },
+  {
+    "word": "handful",
+    "meanings": [
+      "一把",
+      "少数（人或物）",
+      "难对付的人"
+    ],
+    "acceptedAnswers": [],
+    "category": "名词",
+    "tags": [
+      "n."
+    ],
+    "difficulty": 2,
+    "notes": "hand n. 手 v. 递交"
+  },
+  {
+    "word": "by far",
+    "meanings": [
+      "（修饰比较级、最高级）……得多",
+      "显然"
+    ],
+    "acceptedAnswers": [],
+    "category": "短语",
+    "tags": [
+      "phrase"
+    ],
+    "difficulty": 3
+  },
+  {
+    "word": "sheepishly",
+    "meanings": [
+      "害羞地",
+      "窘迫地"
+    ],
+    "acceptedAnswers": [],
+    "category": "副词",
+    "tags": [
+      "adv."
+    ],
+    "difficulty": 3,
+    "notes": "sheepish adj. 害羞的；局促不安的"
+  },
+  {
+    "word": "absolve",
+    "meanings": [
+      "赦免",
+      "免除（责任）"
+    ],
+    "acceptedAnswers": [],
+    "category": "动词",
+    "tags": [
+      "v."
+    ],
+    "difficulty": 2,
+    "notes": "absolved 过去式/过去分词；absolving 现在分词；absolution n. 赦免；宽恕"
+  }
+]

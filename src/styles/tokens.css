@@ -1,0 +1,30 @@
+:root {
+  --paper: #f3ecdd;
+  --paper-deep: #ede2cf;
+  --paper-dark: #e5d8c1;
+  --paper-light: #fbf7ec;
+  --ink: #2f2b25;
+  --ink-soft: #4c453b;
+  --ink-muted: #756d61;
+  --line: #cdbfa8;
+  --line-strong: #b9a88c;
+  --accent: #895c44;
+  --accent-dark: #6e4633;
+  --accent-soft: #b98d72;
+  --success: #55745c;
+  --success-soft: #dfe7dc;
+  --error: #a2544d;
+  --error-soft: #ecd9d4;
+  --shadow: rgba(55, 43, 30, 0.12);
+  --shadow-strong: rgba(55, 43, 30, 0.22);
+
+  --font-mono: "IBM Plex Mono", "JetBrains Mono", "Cascadia Mono", "Courier New",
+    "Noto Sans Mono CJK SC", monospace;
+  --font-display: "Iowan Old Style", "Songti SC", "STSong", "SimSun", Georgia, serif;
+
+  --sidebar-width: 236px;
+  --page-max: 1180px;
+  --radius-sm: 2px;
+  --radius-md: 3px;
+  --ease-out: cubic-bezier(0.22, 0.68, 0.32, 1);
+}

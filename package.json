@@ -1,0 +1,40 @@
+{
+  "name": "typeword",
+  "private": true,
+  "version": "0.2.7",
+  "license": "MIT",
+  "type": "module",
+  "description": "TypeWord - 离线打字机风格汉译英单词学习程序",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run sync:guide && tsc --noEmit && vite build",
+    "sync:guide": "node scripts/sync-guide.mjs",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.5.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "zod": "^3.24.1",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@tauri-apps/cli": "^2.5.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7",
+    "vitest": "^3.2.7"
+  },
+  "allowScripts": {
+    "esbuild": true
+  }
+}
